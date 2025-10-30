@@ -108,7 +108,7 @@ This project was developed as part of a **Python programming assignment**, focus
 **Omar Zeroual**  
 📍 Paris, France  
 🖥️ Artist | Data Enthusiast | Museum Professional  
-📧 omarzeroualpro@gmail.com
+📧 your.email@example.com  
 
 ---
 
@@ -117,4 +117,3 @@ This project was developed as part of a **Python programming assignment**, focus
 This project is released under the **MIT License**. You are free to use, modify, and distribute it with attribution.
 
 ---
-
