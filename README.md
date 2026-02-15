@@ -1,10 +1,10 @@
-# 🎨 Art Investment Advisor
+# Art Investment Advisor
 
 **Art Investment Advisor** is a Streamlit-based web application designed to help investors evaluate the potential of purchasing a contemporary artwork. It combines objective data-driven criteria on both the **artwork** and the **artist** to produce a recommendation score.
 
 ---
 
-## 🚀 Features
+## Features
 
 - Evaluate artworks based on:
   - Nature, size, uniqueness, and historical importance.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🧮 Methodology
+##  Methodology
 
 ### Artwork Scoring (out of 20)
 | Criterion | Weight | Example Factors |
@@ -44,7 +44,7 @@
 
 ---
 
-## 🖥️ Example Output
+## Example Output
 
 The app displays:
 - A global **Recommendation Index** (%)
@@ -56,7 +56,7 @@ The app displays:
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 - **Python 3.13**
 - **Streamlit**
@@ -65,7 +65,7 @@ The app displays:
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 1. Clone the repository:
    ```bash
@@ -85,7 +85,7 @@ The app displays:
 
 ---
 
-## 📦 requirements.txt
+##  requirements.txt
 ```
 streamlit
 pandas
@@ -94,7 +94,7 @@ matplotlib
 
 ---
 
-## 🧠 Project Context
+## 🧠Project Context
 
 This project was developed as part of a **Python programming assignment**, focusing on:
 - Data modeling & weighted scoring systems
@@ -103,17 +103,13 @@ This project was developed as part of a **Python programming assignment**, focus
 
 ---
 
-## 🎯 Author
+##  Author
 
 **Omar Zeroual**  
-📍 Paris, France  
-🖥️ Artist | Data Enthusiast | Museum Professional  
-📧 your.email@example.com  
 
----
 
-## 🪶 License
+## License
 
 This project is released under the **MIT License**. You are free to use, modify, and distribute it with attribution.
 
----
+
