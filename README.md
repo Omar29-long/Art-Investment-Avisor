@@ -94,7 +94,7 @@ matplotlib
 
 ---
 
-## 🧠Project Context
+## Project Context
 
 This project was developed as part of a **Python programming assignment**, focusing on:
 - Data modeling & weighted scoring systems
